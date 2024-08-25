@@ -8,7 +8,7 @@ import d4rl
 import utils
 import TD3_BC
 
-
+#djasiojd
 # Runs policy for X episodes and returns D4RL score
 # A fixed seed is used for the eval environment
 def eval_policy(policy, env_name, seed, mean, std, seed_offset=100, eval_episodes=10):
